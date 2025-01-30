@@ -1,0 +1,8 @@
+openai
+langchain
+flask
+flask-cors
+langchain-community
+langchain-deepseek-official
+transformers
+pypdfium2
